@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\antra\Desktop\Taller de aplicaciones web\ChopChopBikes\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3890025249.index
+880776712.index
+2366846642.index
+743828139.index
+861067117.index
+564240996.index

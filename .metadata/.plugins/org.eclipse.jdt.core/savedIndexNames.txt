@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\antra\Desktop\Taller de aplicaciones web\ChopChopBikes\.metadata\.plugins\org.eclipse.jdt.core
+3890025249.index
